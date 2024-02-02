@@ -1,0 +1,6 @@
+numpy
+tqdm
+chromadb
+sentence_transformers
+langchain
+ibm_watson_machine_learning
